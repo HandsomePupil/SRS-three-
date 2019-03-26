@@ -35,7 +35,7 @@ Scatter Map of Gene Interaction System
         D[Website] -->|Encapsulation| E(Software)
 
 -  UI设计
-    |UI界面|
+   https://github.com/HandsomePupil/SRS-three-/edit/master/docs/nihe.png
 -  软件系统
 -  可用功能
 
