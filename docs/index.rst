@@ -35,9 +35,9 @@ Scatter Map of Gene Interaction System
         D[Website] -->|Encapsulation| E(Software)
 
 -  UI设计
-   https://github.com/HandsomePupil/SRS-three-/edit/master/docs/nihe.png
--  软件系统
--  可用功能
+
+If codes do not work well,please click : https://github.com/HandsomePupil/SRS-three-/edit/master/docs/process2.png
+
 
 2.3 产品特性
 ~~~~~~~~~~~~
@@ -129,6 +129,8 @@ st->op1->cond1 cond1(yes)->op2 cond1(no)->op3
 op2->cond2 cond2(yes)->e cond2(no)->op4->e
 
 
+If codes do not work well,please click : https://github.com/HandsomePupil/SRS-three-/edit/master/docs/process.png
+
 
 
 3.2 实用性  
@@ -152,8 +154,8 @@ op2->cond2 cond2(yes)->e cond2(no)->op4->e
 
 3.4 效率可行性
 ~~~~~~~~~~~~
-3.4.1 上传时间 对于万级别的数据量，在1s以内即可完成。 3.4.2
-分析、显示时间
+3.4.1 上传时间 对于万级别的数据量，在1s以内即可完成。 
+3.4.2 分析、显示时间
 在10s内，该软件就可对用户上传的数据分析并显示完成，以提高用户的使用体验。
 
 ::
@@ -450,6 +452,8 @@ op2->cond2 cond2(yes)->e cond2(no)->op4->e
 
 1. 目前这个1.0版本只支持两者之间的关系，但是在实际情况中，很多时候都会出现一对多的情况，所以在未来条件允许的情况下会加入这个功能，扩大软件的使用面。
 2. 根据软件生成的散点图，用户可根据自己的需求来得到线性、指数或幂的拟合趋势线，同时在[-1，1]内给出相关系数，更加直观反映关系，提高人机交互体验。
+If codes do not work well,please click : https://github.com/HandsomePupil/SRS-three-/edit/master/docs/nihe.jpg
+
 
 6. 预期之外的错误及解决途径
 -------------------  
