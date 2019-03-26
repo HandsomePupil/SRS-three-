@@ -32,11 +32,13 @@ Scatter Map of Gene Interaction System
         A[C3 Code] -->|build| C(Round edge)
         B[D3 Code] -->|build| C(Round edge)
         C[Source Code] -->|deployed| D[Website]
-        D[Website] -->|Encapsulation| E(Software)
+        D[Website] -->|Encapsulation| E(Software)  
+        
+If codes do not work well,please click : https://github.com/HandsomePupil/SRS-three-/edit/master/docs/process2.png
 
 -  UI设计
 
-If codes do not work well,please click : https://github.com/HandsomePupil/SRS-three-/edit/master/docs/process2.png
+If codes do not work well,please click : https://github.com/HandsomePupil/SRS-three-/edit/master/docs/UI.jpg
 
 
 2.3 产品特性
