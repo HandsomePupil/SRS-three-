@@ -116,7 +116,8 @@ Scatter Map of Gene Interaction System
 
        功能级别[Level]:高  
 
-   \`\`\`flow st=>start: Start op1=>operation: 上传 cond1=>condition:
+流程图：
+flow st=>start: Start op1=>operation: 上传 cond1=>condition:
    上传成功? op2=>operation: 生成 cond2=>condition: 是否清晰?
    op3=>operation: 清空 op4=>operation: 筛选 e=>end
 
@@ -168,7 +169,9 @@ op2->cond2 cond2(yes)->e cond2(no)->op4->e
 3.6 可移植性
 ~~~~~~~~~~~~
 根据这样的软件功能，可以放到WPS或者office平台，借助这样的大平台，发展的前景将会更加光明。
-\`\`\` ## 4. 用例 (1)
+4. 用例 
+-----------
+(1)
 
 .. raw:: html
 
