@@ -41,7 +41,8 @@ Scatter Map of Gene Interaction System
 
 2.3 产品特性
 ~~~~~~~~~~~~
-   软件具有以下特点:
+
+软件具有以下特点:
 
 1. 为用户提供简便易用的数图转换工具。
 
@@ -117,7 +118,8 @@ Scatter Map of Gene Interaction System
 
        功能级别[Level]:高  
 
-流程图：
+流程图：  
+
 flow st=>start: Start op1=>operation: 上传 cond1=>condition:
    上传成功? op2=>operation: 生成 cond2=>condition: 是否清晰?
    op3=>operation: 清空 op4=>operation: 筛选 e=>end
@@ -126,7 +128,7 @@ st->op1->cond1 cond1(yes)->op2 cond1(no)->op3
 
 op2->cond2 cond2(yes)->e cond2(no)->op4->e
 
-::
+
 
 
 3.2 实用性  
@@ -448,9 +450,10 @@ op2->cond2 cond2(yes)->e cond2(no)->op4->e
 2. 根据软件生成的散点图，用户可根据自己的需求来得到线性、指数或幂的拟合趋势线，同时在[-1，1]内给出相关系数，更加直观反映关系，提高人机交互体验。
 
 6. 预期之外的错误及解决途径
--------------------
-   [E1]上传文件失败
-   [S1]使用正确的文件格式，查看或更改文件名，尽量简短不要过长（建议以英文命名）。如若任然不可成功，推荐检查本机的FTP服务协议。
+-------------------  
+
+[E1]上传文件失败
+[S1]使用正确的文件格式，查看或更改文件名，尽量简短不要过长（建议以英文命名）。如若任然不可成功，推荐检查本机的FTP服务协议。
 
 [E2]无法生成图像。
 [S2]数据量较大时请耐心等待，建议刷新页面后重新上传文件生成图像。
