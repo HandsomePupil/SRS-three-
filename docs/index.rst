@@ -482,6 +482,7 @@ If codes do not work well,please click : https://github.com/HandsomePupil/SRS-th
 
 =======  =========  ========  ==========  ===========
 版本号      版本名    改动描述    日期       编辑者
+发给v      谷歌      谷歌        翻滚吧v     分隔符
 =======  =========  ========  ==========  ===========
 
 
