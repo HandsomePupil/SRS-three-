@@ -133,6 +133,8 @@ op2->cond2 cond2(yes)->e cond2(no)->op4->e
 
 If codes do not work well,please click : https://github.com/HandsomePupil/SRS-three-/edit/master/docs/process.png
 
+.. image :: process.png
+
 
 
 3.2 实用性  
@@ -478,158 +480,9 @@ If codes do not work well,please click : https://github.com/HandsomePupil/SRS-th
 7. 更改日志
 -----------
 
-.. raw:: html
-
-   <table>
-       <tr>
-           <td>
-
-版本号
-
-.. raw:: html
-
-   </td>
-           <td>
-
-版本名
-
-.. raw:: html
-
-   </td>
-           <td  width="120" align="center">
-
-改动描述
-
-.. raw:: html
-
-   </td>
-           <td>
-
-日期
-
-.. raw:: html
-
-   </td>
-           <td>
-
-编辑者
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td>
-
-V 1.0
-
-.. raw:: html
-
-   </td>
-           <td>
-
-GG & WW
-
-.. raw:: html
-
-   </td>
-           <td  width="120" align="center">
-
-初始版本
-
-.. raw:: html
-
-   </td>
-           <td>
-
-2019.3.25
-
-.. raw:: html
-
-   </td>
-           <td>
-
-编辑者
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td>
-
-Wait Updating
-
-.. raw:: html
-
-   </td>
-           <td>
-
-
-
-.. raw:: html
-
-   </td>
-           <td  width="120" align="center">
-
-
-
-.. raw:: html
-
-   </td>
-           <td>
-
-
-
-.. raw:: html
-
-   </td>
-           <td>
-
-
-
-.. raw:: html
-
-   </td>
-       </tr>
-       <tr>
-           <td>
-
-
-
-.. raw:: html
-
-   </td>
-           <td>
-
-
-
-.. raw:: html
-
-   </td>
-           <td  width="120" align="center">
-
-
-
-.. raw:: html
-
-   </td>
-           <td>
-
-
-
-.. raw:: html
-
-   </td>
-           <td>
-
-
-
-.. raw:: html
-
-   </td>
-       </tr>
-   </table>  
+=======  =========  ========  ==========  ===========
+版本号      版本名    改动描述    日期       编辑者
+=======  =========  ========  ==========  ===========
 
 
 .. |UI界面| image:: ‪C:\Users\admin\Desktop\timg.jpg
